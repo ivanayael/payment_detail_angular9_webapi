@@ -64,4 +64,4 @@ export class PaymentDetailComponent implements OnInit {
       )
     }
   
-  }
+  }  
